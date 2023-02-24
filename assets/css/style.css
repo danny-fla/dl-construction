@@ -1,9 +1,15 @@
 * {
     margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: montserrat, sans-serif;
 }
 
 .wrapper {
     width: 100%;
+    /* max-width: 960px */
     margin: 0 auto;
 }
 
@@ -21,7 +27,12 @@
 
 .col1 {
  background-color: red;
-
+ justify-content: center;
+ display: flex;
+ 
+ 
+ align-items: center;
+ 
 }
 
 .col2 {
@@ -30,5 +41,54 @@
 }
 .col3 {
     background-color: green;
+    
+}
+
+.logo-outer {
+    background-color: yellow;
+    border: 1px solid black;
+    flex-basis: 50px;
+    height: 50px;
+    display: flex;
+ 
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    background: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    display: block;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+@media screen and (min-width: 768px) {
+
+    nav ul {
+      display: flex;
+      padding: 1rem;
+
+    }
+
+
+    nav li {
+        flex: 1 1 0;
+        
+    }
+
 
 }
