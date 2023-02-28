@@ -119,48 +119,6 @@ hr {
 }
 
 
-.footer {
-    padding: 15px 0 30px 0;
-    background-color: #2a2a2c;
-    min-height: 150px;
-    width: 100%;
-
-    margin-top: 100px;
-    display: flex;
-    position: fixed no-scroll;
-    bottom: 0;
-    left: 0;
- }
-
- .footer-col {
-    background-color:green;
-    border: 1px solid black;
-    height: 100%;
-    display: flex;
-    
-    
-    flex-grow: 1;
-    justify-content: center;
-
- }
-
- .fbox1 {
-    background: url(/assets/images/logo.png) no-repeat center center;
-    background-size: cover;
-    background-color: yellow;
-    border: 1px solid black;
-    flex-basis: 200px;
-    height: 85px;
-    display: flex;
- 
-    justify-content: center;
-    align-items: center;
-}
-
-.fbox2 {
-    
-}
-
 @media screen and (min-width: 768px) {
 
     nav ul {
