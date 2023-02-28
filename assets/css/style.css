@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -84,11 +85,14 @@ nav a {
     display: block;
     padding: 3px;
     
+    
 }
+
 
 nav a:hover {
         border-bottom: 3px solid #fff;
         border-radius: 2px;
+        padding-left: 8px;
 }
 
 .hero {
@@ -109,7 +113,7 @@ nav a:hover {
 .text {
     font-size: 1.4rem;
     text-align: center;
-    color: white;
+    color: #d3d3d3;
     
     text-shadow: 0 1px 0 black;
 }
@@ -118,6 +122,95 @@ hr {
     border: 1px solid black;
 }
 
+.footer-container {
+    max-width: 1170px;
+    margin: auto;
+}
+
+.footer ul {
+    list-style-type: none;
+}
+
+.footer-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer{
+    background-color: #333;
+    padding: 70px 0;
+}
+
+.footer-col {
+    width: 25%;
+    padding: 0 15px;
+}
+
+.footer-col h4 {
+    font-size: 19px;
+    color: #bebebe;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 300;
+    position: relative;
+     
+}
+
+.footer li {
+    font-size: 15px;
+    color: #bebebe;
+    margin-bottom: 30px;
+    font-weight: 300;
+    position: relative;
+    display: block;
+}
+
+.footer-col h4::before {
+    content:'';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: #fff;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+}
+
+.footer-col ul li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.footer-col ul li a{
+    font-size: 15px;
+    color: #bebebe;
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+
+}
+
+.footer-col h4, li:hover {
+    color: #fff;
+}
+
+.footer-col a:hover {
+    color: #fff;
+}
+
+.footer-col .social-links a{
+    display: inline-block; /*not displaying correctly */
+    height: 40px;
+    width: 40px;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.footer-col .social-links a:hover {
+    color: #fff;
+}
 
 @media screen and (min-width: 768px) {
 
@@ -128,11 +221,21 @@ hr {
 
     }
 
-
     nav li {
         flex: 1 1 0;
         
     }
+}
 
-
+@media(max-width:767px) {
+    .footer-col {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+@media(max-width: 574px){
+    .footer-col{
+        width: 100%;
+        margin-bottom: 30px;
+    }
 }
