@@ -5,24 +5,11 @@
 }
 
 body {
-    font-family: montserrat, sans-serif;
+    font-family: "roboto", sans-serif;
     background: pink;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-/* gallery header */
-    .navbar {
+ .navbar {
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -73,8 +60,58 @@ body {
     border-radius: 10px;
 }
 
-/* end gallery header */
+/* hero-section start */
+#hero{
+    width: 100%;
+    height: 805px;
+    background: linear-gradient(0deg, rgba(37,29,29,0.44), rgba(37,29,29,0.44)), url(/assets/images/Cnoc-Mhuire-Renmore-1-1030x687.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 32px;
+}
 
+.hero-container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.hero-box {
+    width: 50%;
+    margin-top: 200px;
+
+}
+
+.hero-box .hero-heading {
+    color: #fff;
+    font-size: 35px;
+    line-height: 65px;
+    font-family: "roboto", sans-serif;
+    text-transform: capitalize;
+}
+
+.hero-box .hero-desc {
+    color: #fff;
+    line-height: 27px;
+    font-size: 18px;
+    padding: 30px 0;
+}
+
+.hero-box .quote-box{
+    margin-top: 60px;
+}
+
+.hero-box .cta-button{
+    background: #fff;
+    margin-right: 30px;
+    padding: 15px 40px;
+    border-radius: 50px;
+    color: #2e2c2c;
+}
+.hero-box .cta-button:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+
+/* hero-section end */
 .hero {
     display: flex;
     flex-direction: column;
@@ -192,20 +229,6 @@ hr {
     color: #fff;
 }
 
-@media screen and (min-width: 768px) {
-
-    nav ul {
-      display: flex;
-      padding: 1rem;
-      
-
-    }
-
-    nav li {
-        flex: 1 1 0;
-        
-    }
-}
 
 @media(max-width:767px) {
     .footer-col {
