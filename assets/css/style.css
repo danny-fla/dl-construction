@@ -6,7 +6,7 @@
 
 body {
     font-family: "roboto", sans-serif;
-    background: pink;
+    background: #fff;
 }
 
  .navbar {
@@ -105,13 +105,29 @@ body {
     padding: 15px 40px;
     border-radius: 50px;
     color: #2e2c2c;
+    text-decoration: none;
+    
 }
 .hero-box .cta-button:hover {
     background: rgba(255, 255, 255, 0.2);
 }
 
 
-/* hero-section end */
+/* Gallery start*/
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+.gallery img {
+    flex-wrap: wrap;
+    width: 320px;
+    height: 300px;
+    margin: 10px 0;
+}
+/* Gallery end */
 .hero {
     display: flex;
     flex-direction: column;
@@ -126,7 +142,7 @@ body {
     
     
 }
-      
+
 .text {
     font-size: 1.4rem;
     text-align: center;
@@ -230,11 +246,30 @@ hr {
 }
 
 
-@media(max-width:767px) {
+@media(max-width:768px) {
     .footer-col {
         width: 50%;
         margin-bottom: 30px;
     }
+    .hero-box .hero-heading {
+        font-size: 38px;
+        line-height: 32px;
+        
+    }
+    .hero-box .hero-desc {
+        
+        line-height: 27px;
+        font-size: 18px;
+        padding: 20px 0;
+    }
+
+    .hero-box {
+        width: 75%;
+        margin-top: 200px;
+        padding: 0 10px 0 10px;
+    
+    }
+
 }
 @media(max-width: 574px){
     .footer-col{
@@ -267,5 +302,26 @@ hr {
     }
     .navbar-links.active {
         display: flex;
+    }
+
+    .hero-box .hero-heading {
+        font-size: 38px;
+        line-height: 32px;
+        
+    }
+
+
+    .hero-box .hero-desc {
+        
+        line-height: 27px;
+        font-size: 18px;
+        padding: 20px 0;
+    }
+
+    .hero-box {
+        width: 100%;
+        margin-top: 200px;
+        padding: 0 10px 0 10px;
+    
     }
 }
