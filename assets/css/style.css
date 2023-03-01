@@ -9,92 +9,17 @@ body {
     background: pink;
 }
 
-.wrapper {
-    width: 100%;
-    /* max-width: 960px */
-    margin: 0 auto;
-    
-}
-
-.header-container {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.box {
-    height: 200px;
-    flex-basis: 200px;
-    flex-grow: 1;
-    
-
-}
-
-.col1 {
- background-color:red;
- justify-content: center;
- display: flex;
- 
- align-items: center;
- 
-}
-
-.col2 {
-    background-color: blue;  
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
-
-.col3 {
-    background-color: green;
-}
-    
 
 
-.logo-outer {
-    background: url(/assets/images/logo.png) no-repeat center center;
-    background-size: cover;
-    background-color: yellow;
-    border: 1px solid black;
-    flex-basis: 200px;
-    height: 100px;
-    display: flex;
- 
-    justify-content: center;
-    align-items: center;
-}
-
-.nav1 {
-    background: #333;
-    letter-spacing: 3px;
-    padding: 5px;
-   
-}
-
-.nav1 ul {
-    list-style-type: none;
-    padding: 0;
-    
-}
-
-.nav1 a {
-    text-decoration: none;
-    text-align: center;
-    color: #fff;
-    display: block;
-    padding: 3px;
-    
-    
-    
-}
 
 
-.nav1 a:hover {
-        border-bottom: 3px solid #fff;
-        border-radius: 2px;
-        padding-left: 8px;
-}
+
+
+
+
+
+
+
 
 /* gallery header */
     .navbar {
