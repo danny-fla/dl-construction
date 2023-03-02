@@ -10,7 +10,7 @@ body {
 }
 
 span {
-    color: #f9004d;
+    color: #DB0649;
     font-weight: 800;
 }
 
@@ -72,7 +72,7 @@ span {
 #hero{
     width: 100%;
     height: 805px;
-    background: linear-gradient(0deg, rgba(37,29,29,0.44), rgba(37,29,29,0.44)), url(../images/Cnoc-Mhuire-Renmore-1-1030x687.jpg) no-repeat center center;
+    background: linear-gradient(0deg, rgba(37,29,29,0.77), rgba(37,29,29,0.77)), url(../images/Cnoc-Mhuire-Renmore-1-1030x687.jpg) no-repeat center center;
     background-size: cover;
     padding-top: 32px;
 }
@@ -108,7 +108,7 @@ span {
 }
 
 .hero-box .cta-button{
-    background: #f9004d;
+    background: #DB0649;
     margin-right: 30px;
     padding: 15px 40px;
     border-radius: 50px;
@@ -117,7 +117,7 @@ span {
     
 }
 .hero-box .cta-button:hover {
-    border: 2px solid #f9004d;
+    border: 2px solid #DB0649;
     background: transparent;
     transform: scale(1.1);
     color: #fff;
@@ -188,7 +188,7 @@ span {
 
 .contact-form form .btn {
     display: inline-block;
-    background: #f9004d;
+    background: #DB0649;
     font-size: 1.1rem;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -199,7 +199,7 @@ span {
 }
 
 .contact-form form .btn:hover{
-    border: 2px solid #f9004d;
+    border: 2px solid #DB0649;
     background: transparent;
     transform: scale(1.1);
 }
@@ -409,10 +409,7 @@ span {
     .form-image img {
         display: none;
     }
-    /*.contact-form {
-        padding: 15px 0 15px 40px;
-        
-    } */
+    
     
     .form, form {
         text-align:center;
