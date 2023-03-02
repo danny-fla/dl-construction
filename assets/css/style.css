@@ -291,10 +291,11 @@ span {
     margin: 0 10px 10px 0;
     text-align: center;
     line-height: 40px;
-    background-color: #f9004d;
     border-radius: 50%;
 }
-
+.social-links ul{
+    display: flex;
+}
 .footer-col .social-links a:hover {
     color: #fff;
 }
@@ -408,10 +409,16 @@ span {
     .form-image img {
         display: none;
     }
-    .contact-form {
+    /*.contact-form {
         padding: 15px 0 15px 40px;
-    }
+        
+    } */
     
+    .form, form {
+        text-align:center;
+    }
+
+
 }
 
 /*                         media end                   */
