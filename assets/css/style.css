@@ -72,7 +72,7 @@ span {
 #hero{
     width: 100%;
     height: 805px;
-    background: linear-gradient(0deg, rgba(37,29,29,0.44), rgba(37,29,29,0.44)), url(/assets/images/Cnoc-Mhuire-Renmore-1-1030x687.jpg) no-repeat center center;
+    background: linear-gradient(0deg, rgba(37,29,29,0.44), rgba(37,29,29,0.44)), url(../images/Cnoc-Mhuire-Renmore-1-1030x687.jpg) no-repeat center center;
     background-size: cover;
     padding-top: 32px;
 }
@@ -192,7 +192,7 @@ span {
     font-size: 1.1rem;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-size: 400;
+    font-weight: 400;
     border: 2px solid transparent;
     border-radius: 10px;
     width: 220px; 
@@ -206,7 +206,7 @@ span {
 
 /*                      contact form end                             */
 
-}
+
 
 /*                         footer start                    */
 .footer-container {
@@ -337,6 +337,19 @@ span {
     }
 }
 @media(max-width: 574px){
+    
+    .quote-box{
+        text-align: center;
+    }
+
+    .footer{
+        text-align: center;
+    }
+    
+    .footer-col h4::before {
+        display: none;
+    }
+
     .footer-col{
         width: 100%;
         margin-bottom: 30px;
@@ -372,7 +385,7 @@ span {
     .hero-box .hero-heading {
         font-size: 38px;
         line-height: 32px;
-        
+        text-align: center;
     }
 
 
@@ -381,6 +394,8 @@ span {
         line-height: 27px;
         font-size: 18px;
         padding: 20px 0;
+        text-align: center;
+        
     }
 
     .hero-box {
