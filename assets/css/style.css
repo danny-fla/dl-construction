@@ -301,10 +301,6 @@ span {
     color: #fff;
 }
 
-/*                         footer end                    */
-
-/*                         media quires start                    */
-
 @media(max-width:820px) {
     .footer-col {
         width: 50%;
@@ -330,7 +326,7 @@ span {
     }
 
     .form-image img {
-        /* needs styling */
+        
 
     }
 
