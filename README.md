@@ -11,12 +11,12 @@ This is a website for a construction company that gives the user information abo
 - **Navigation Bar**
     - The navigation bar is fully responsive, features on all four pages and includes links to the Home, Gallery and Quote Us pages. To aid simple user navigation it is identical on each page.
     <!--add navbar here-->
+    - Depending on the screen size of the user's device, the navigation bar transforms into a hamburger menu so as not to hinder the user's experience.
 ![Navigation Bar Screenshot](assets/images/nav%20bar%20screenshot.png)
 
-    - Depending on the screen size of the user's device, the navigation bar transforms into a hamburger menu so as not to hinder the user's experience.
-    <!--add navhamburger here-->
-
+    
 ![Hamburger Nav Screenshot](assets/images/hamburger.png)
+
 - **Landing page image**
     - The image and the text overlay easily portrays to the user that the website is for a construction company.
     - The text overlaying the image provides the user with an undertstanding of company and it's values.
