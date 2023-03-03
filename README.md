@@ -4,6 +4,8 @@ This is a website for a construction company that gives the user information abo
 
 <!--Add Responsive images here-->
 
+![Responsive Screenshot](assets/images/responsive.png)
+
 ## **Features**
 ### **Exisiting Features**
 - **Navigation Bar**
@@ -20,22 +22,36 @@ This is a website for a construction company that gives the user information abo
     - The text overlaying the image provides the user with an undertstanding of company and it's values.
     - The call to action button allows the user to quickly re-direct themselves to the contact section of the website.
     <!--add Hero here-->
+
+![Hero Screenshot](assets/images/landing.png)
+
 - **The Footer**
     - The footer includes the comapny's name, address and contact details.
     - All the links to the relevant social media sites are located in the footer section. Once clicked the user will simply be re-directed to their chosen destination.
     <!--add footer here-->
+
+![Footer screenshot](assets/images/footer%20screenshot.png)
+
 - **Gallery**
     - The gallery provides the user with images and video to showcase the company's past projects.
     - The purpose of this section is to show to user the capibilites of DL Construction.
     <!--add gallery here-->
+
+![Gallery Screenshot](assets/images/gallery%20screenshot%201.png)
+
 - **Quote Us**
     - The Quote Us section has a contact form to allow the user to send their quires to the company and obtain a cost estimate for any projects they have.
     - The contact form is important to the user as it allows them the opportunity to directly contact the company.
     <!--add contact here-->
+
+![Quote Us Screenshot](assets/images/Quote%20Us%20screenshot.png)
+
 - **Thank You**
     - The Thank You feature is a simple indicator that the user has successfully sent their request to the company.
     - This is valuable as it tells the user that they have sent their request and also that the company values their custom.
     <!--add thank you here-->
+
+![Thank you Screenshot](assets/images/Thank%20you%20screenshot.png)
 
 ### **Future Features**
 - Another Feature
@@ -44,9 +60,15 @@ This is a website for a construction company that gives the user information abo
 - **HTML**
     - No errors were returned when passing through the official W3C validator.
     <!--add html testing here-->
+
+![Validator Screenshot](assets/images/clean%20validater.png)
+
 - **CSS**
     - No errors were found when passing through the official (Jigsaw) validator.
-    <!--add csss tsting here-->
+    <!--add css tsting here-->
+
+![Validator Screenshot](assets/images/clean%20validater.png)
+
 - **Lighthouse**
     - Lighthouse was used to test the accessability of the website and to make sure the fonts and colors used are easily readable.
     <!--add lighthouse here-->
