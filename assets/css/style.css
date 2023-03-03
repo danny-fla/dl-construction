@@ -295,6 +295,7 @@ span {
 }
 .social-links ul{
     display: flex;
+    
 }
 .footer-col .social-links a:hover {
     color: #fff;
