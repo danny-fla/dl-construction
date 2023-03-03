@@ -19,7 +19,7 @@ This is a website for a construction company that gives the user information abo
 
 - **Landing page image**
     - The image and the text overlay easily portrays to the user that the website is for a construction company.
-    - The text overlaying the image provides the user with an undertstanding of company and it's values.
+    - The text overlaying the image provides the user with an undertstanding of the company and it's values.
     - The call to action button allows the user to quickly re-direct themselves to the contact section of the website.
     <!--add Hero here-->
 
