@@ -33,28 +33,27 @@ This is a website for a construction company that gives the user information abo
 ![Footer screenshot](assets/images/footer%20screenshot.png)
 
 - **Gallery**
-    - The gallery provides the user with images and video to showcase the company's past projects.
-    - The purpose of this section is to show to user the capibilites of DL Construction.
+    - The gallery allows the user to access images and video to showcase the company's past projects.
+    - The aim of this section is to show the user the many and varied capibilites of DL Construction.
     <!--add gallery here-->
 
 ![Gallery Screenshot](assets/images/gallery%20screenshot%201.png)
 
 - **Quote Us**
-    - The Quote Us section has a contact form to allow the user to send their quires to the company and obtain a cost estimate for any projects they have.
-    - The contact form is important to the user as it allows them the opportunity to directly contact the company.
+    - The Quote Us section has a contact form which allows the user to send their enquires directly to the company to request an estimate of the cost involved for a project that they are planning.
+    - The contact form is simple and easy to use.
     <!--add contact here-->
 
 ![Quote Us Screenshot](assets/images/Quote%20Us%20screenshot.png)
 
 - **Thank You**
-    - The Thank You feature is a simple indicator that the user has successfully sent their request to the company.
-    - This is valuable as it tells the user that they have sent their request and also that the company values their custom.
+    - The Thank You feature is a simple indicator that the users enquiry has been successfully received by DL Construction.
     <!--add thank you here-->
 
 ![Thank you Screenshot](assets/images/Thank%20you%20screenshot.png)
 
 ### **Future Features**
-- Another Feature
+- Another feature that I will add is an option to view ongoing company projects in a 3-D visualisation.
 ## Testing 
 ### **Validator Testing**
 - **HTML**
