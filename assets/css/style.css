@@ -381,6 +381,7 @@ li:hover {
 
     .social-links ul {
         margin-bottom: 10px;
+        justify-content: center;
     }
 
     .toggle-button {
