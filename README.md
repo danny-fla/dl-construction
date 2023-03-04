@@ -97,5 +97,5 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - The image used on the Quote Us and Thank You section was taken from https://the-passenger.de/2019/10/03/liffey-river-dublin/.
 - The image used for the favicon was made using https://favicon.io/favicon-generator/.
 ### **Content**
-- The navigation bar section was inspired by WebDevSimplified.
-- The contact form is inspired by https://www.youtube.com/@tahmidahmed-yt.
+- The navigation bar section was inspired by [WebDevSimplified](https://www.youtube.com/watch?v=At4B7A4GOPg).
+- The contact form is inspired by [Tahmin Ahmid].
