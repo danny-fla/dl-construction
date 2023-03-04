@@ -72,7 +72,7 @@ span {
 #hero{
     width: 100%;
     height: 805px;
-    background: linear-gradient(0deg, rgba(37,29,29,0.30), rgba(37,29,29,0.30)), url(../images/Cnoc-Mhuire-Renmore-1-1030x687-min.jpg) no-repeat center center;
+    background: linear-gradient(0deg, rgba(37,29,29,0.30), rgba(37,29,29,0.30)), url(../images/cnoc-mhuire-renmore.jpg) no-repeat center center;
     background-size: cover;
     padding-top: 32px;
 }
