@@ -416,4 +416,26 @@ span {
 
 }
 
+@media(min-width: 1000px){
+    .hero-box .hero-heading {
+        font-size: 38px;
+        line-height: 32px;
+        padding: 20px 0 0 40px;
+        
+    }
+    .hero-box .hero-desc {
+        
+        line-height: 27px;
+        font-size: 18px;
+        padding: 20px 0 0 40px;
+    }
+
+    
+    .quote-box {
+        margin-left: 40px;
+    }
+}
+
+
+
 /*                         media end                   */

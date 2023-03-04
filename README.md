@@ -12,6 +12,8 @@ This is a website for a construction company that gives the user information abo
     - The navigation bar is fully responsive, features on all four pages and includes links to the Home, Gallery and Quote Us pages. To aid simple user navigation it is identical on each page.
     <!--add navbar here-->
     - Depending on the screen size of the user's device, the navigation bar transforms into a hamburger menu so as not to hinder the user's experience.
+
+
 ![Navigation Bar Screenshot](assets/images/nav%20bar%20screenshot.png)
 
     
@@ -47,7 +49,7 @@ This is a website for a construction company that gives the user information abo
 ![Quote Us Screenshot](assets/images/Quote%20Us%20screenshot.png)
 
 - **Thank You**
-    - The Thank You feature is a simple indicator that the users enquiry has been successfully received by DL Construction.
+    - The Thank You feature is a simple indicator that the user's enquiry has been successfully received by DL Construction.
     <!--add thank you here-->
 
 ![Thank you Screenshot](assets/images/Thank%20you%20screenshot.png)
