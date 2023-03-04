@@ -114,6 +114,7 @@ span {
 
 .hero-box .quote-box {
     margin-top: 60px;
+    padding-bottom: 1rem;
 }
 
 .hero-box .cta-button {
@@ -329,6 +330,7 @@ li:hover {
     .hero-box .hero-heading {
         font-size: 38px;
         line-height: 32px;
+        padding: 1rem;
 
     }
 
@@ -342,11 +344,12 @@ li:hover {
     .hero-box {
         width: 75%;
         margin-top: 200px;
-        padding: 0 10px 0 10px;
 
     }
 
-
+    .hero-box .quote-box{
+        padding-bottom: 1rem;
+    }
     .contact-form {
         padding: 15px 0 15px 40px;
     }
@@ -415,9 +418,13 @@ li:hover {
         font-size: 38px;
         line-height: 32px;
         text-align: center;
+        padding-top: 1rem;
     }
 
-
+    
+    .hero-box .quote-box{
+        padding-bottom: 2rem;
+    }
     .hero-box .hero-desc {
 
         line-height: 27px;
@@ -462,6 +469,9 @@ li:hover {
         padding: 20px 0 0 40px;
     }
 
+    .hero-box .quote-box{
+        padding-bottom: 1rem;
+    }
 
     .quote-box {
         margin-left: 40px;
