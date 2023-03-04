@@ -79,6 +79,13 @@ This is a website for a construction company that gives the user information abo
 
 ## **Deployment** 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
+1. From the github repository click on "settings" from the navigation bar.
+2. Click on "pages" from navigation section on the left.
+3. In the "source" section choose which branch you want to use from the dropdown menu, it will usually be the "main".
+4. Select which folder you want to use, in most cases its the "/root".
+5. Hit the "save" button, then wait for your site to be published.(This can take some time.)
+6. When your site is ready and published the link will be above the "source" section.
+
 <!--Deployment steps here-->
 
 ## **Credits**
