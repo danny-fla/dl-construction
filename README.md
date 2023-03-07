@@ -15,9 +15,6 @@ This is a website for a construction company that gives the user information abo
     - Structure
     - Skeleton 
     - Surface 
-        - Colour Palette
-        - Typograohy
-        - Iconography 
 - Features
     - Existing Features
         - Navigation Bar
@@ -27,7 +24,7 @@ This is a website for a construction company that gives the user information abo
         - Quote Us
         - Thank You
     - Future Features
-        - Image Carousel
+        - Media Slideshow
     - Testing 
         - Functionality and Usability Testing
         - Focus Group Testing
@@ -109,11 +106,13 @@ This is a website for a construction company that gives the user information abo
 
 ## **Skeleton**
 
-I created wireframes for 3 different platforms (desktop, tablet and mobile) to show responsiveness of the site. The wireframes were created using
+I created wireframes for 3 different platforms (desktop, tablet and mobile) to show responsiveness of the site. The wireframes were created using pen and paper as it's a personal preference.
+
+View wireframes [here](#)
 
 ## **Surface**
 
-The final layer of design looks at the aesthetic of the site. My goal is to make the site visually appealing to the user while also complementing the imagery and content of the site without compromising accessibility for users with disabilities.
+The aim of the site is to be visially appealling, easily legible and use images and video media to compliment and give the user an enjoyable experience.
 
 
 ## **Features**
@@ -165,8 +164,10 @@ The final layer of design looks at the aesthetic of the site. My goal is to make
 ![Thank you Screenshot](assets/images/Thank%20you%20screenshot.png)
 
 ### **Future Features**
-- Another feature that I will add is an option to view ongoing company projects in a 3-D visualisation.
+- Media Slideshow
+    - An image carousel to contain a collection of images and videos to include into the hero image section.
 ## Testing 
+
 ### **Validator Testing**
 - **HTML**
     - No errors were returned when passing through the official W3C validator.
@@ -187,6 +188,9 @@ The final layer of design looks at the aesthetic of the site. My goal is to make
     - I have tested the website is responsive on all sizes of devices and that all text is easily readable.
     - I tested the page throughout my project using chrome developer tools.
 
+## Unfixed Bugs
+No reported bugs have been detected.
+
 ## **Deployment** 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 1. From the github repository click on "settings" from the navigation bar.
@@ -196,12 +200,13 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 5. Hit the "save" button, then wait for your site to be published.(This can take some time.)
 6. When your site is ready and published the link will be above the "source" section.
 
+Please find a link to deployed site [here](#)
 <!--Deployment steps here-->
 
 ## **Credits**
 ### **Media** 
 - The icons used in the facilities section were taken from Font Awesome.
-- The fonts used for the web page were got on Google Fonts.
+- The fonts used for the web page were taken from Google Fonts.
 - The image used for the hero image and the images in the gallery were taken from OCC Construction.
 - The video used in the gallery was taken from YouTube.
 - The image used on the Quote Us and Thank You section was taken from https://the-passenger.de/2019/10/03/liffey-river-dublin/.
