@@ -2,7 +2,6 @@
 
 This is a website for a construction company that gives the user information about the company, showcases their previous projects and provides the opportunity to contact them. The site targets users who are in the construction industry and users who may not be but need a serivice DL Construction provides.
 
-<!--Add Responsive images here-->
 
 ![Responsive Screenshot](assets/images/responsive.png)
 ## **Contents**
@@ -34,8 +33,6 @@ This is a website for a construction company that gives the user information abo
     - Credits 
         - Content
         - Media
-        - Code
-        - Focus Group
 
 ## **User Experience (UX)**
 - User Stories 
@@ -161,29 +158,31 @@ The aim of the site is to be visially appealling, easily legible and use images 
     - The Thank You feature is a simple indicator that the user's enquiry has been successfully received by DL Construction.
     <!--add thank you here-->
 
-![Thank you Screenshot](assets/images/Thank%20you%20screenshot.png)
+![Thank you Screenshot](assets/images/
 
 ### **Future Features**
 - Media Slideshow
     - An image carousel to contain a collection of images and videos to include into the hero image section.
+
 ## Testing 
 
 ### **Validator Testing**
+
 - **HTML**
     - No errors were returned when passing through the official W3C validator.
-    <!--add html testing here-->
+    
 
-![Validator Screenshot](assets/images/clean%20validater.png)
+![Validator Screenshot](assets/images/clean-validater.png)
 
 - **CSS**
     - No errors were found when passing through the official (Jigsaw) validator.
-    <!--add css tsting here-->
+    
 
-![Validator Screenshot](assets/images/clean%20validater.png)
+![Validator Screenshot](assets/images/clean-validater.png)
 
 - **Lighthouse**
     - Lighthouse was used to test the accessability of the website and to make sure the fonts and colors used are easily readable.
-    <!--add lighthouse here-->
+    
 - **Responsiveness**
     - I have tested the website is responsive on all sizes of devices and that all text is easily readable.
     - I tested the page throughout my project using chrome developer tools.
@@ -205,12 +204,12 @@ Please find a link to deployed site [here](#)
 
 ## **Credits**
 ### **Media** 
-- The icons used in the facilities section were taken from Font Awesome.
-- The fonts used for the web page were taken from Google Fonts.
-- The image used for the hero image and the images in the gallery were taken from OCC Construction.
+- The icons used in the facilities section were taken from [Font Awesome](https://fontawesome.com/).
+- The fonts used for the web page were taken from [Google Fonts](https://fonts.google.com/).
+- The image used for the hero image and the images in the gallery were taken from [OCC Construction](https://occo.ie/).
 - The video used in the gallery was taken from YouTube.
-- The image used on the Quote Us and Thank You section was taken from https://the-passenger.de/2019/10/03/liffey-river-dublin/.
-- The image used for the favicon was made using https://favicon.io/favicon-generator/.
+- The image used on the Quote Us and Thank You section was taken from [The Passenger](https://the-passenger.de/2019/10/03/liffey-river-dublin/).
+- The image used for the favicon was made using [favicon.io](https://favicon.io/favicon-generator/).
 ### **Content**
-- The navigation bar section was inspired by [WebDevSimplified](https://www.youtube.com/watch?v=At4B7A4GOPg).
-- The contact form is inspired by [Tahmin Ahmid].
+- The navigation bar and Javascript used was inspired by [WebDevSimplified](https://www.youtube.com/watch?v=At4B7A4GOPg).
+- The contact form is inspired by [Tahmin Ahmid](https://www.youtube.com/watch?v=t_GpKEwyw1c&t=467s).
