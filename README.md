@@ -5,6 +5,116 @@ This is a website for a construction company that gives the user information abo
 <!--Add Responsive images here-->
 
 ![Responsive Screenshot](assets/images/responsive.png)
+## **Contents**
+- [Introduction](#)
+- User Experience (UX)
+    - User Stories
+- Design (UXD)
+    - Strategy
+    - Scope
+    - Structure
+    - Skeleton 
+    - Surface 
+        - Colour Palette
+        - Typograohy
+        - Iconography 
+- Features
+    - Existing Features
+        - Navigation Bar
+        - Landing Page Image
+        - Footer
+        - Gallery
+        - Quote Us
+        - Thank You
+    - Future Features
+        - Image Carousel
+    - Testing 
+        - Functionality and Usability Testing
+        - Focus Group Testing
+        - Validator testing
+        - Unfixed bugs
+    - Deployment
+    - Credits 
+        - Content
+        - Media
+        - Code
+        - Focus Group
+
+## **User Experience (UX)**
+- User Stories 
+
+    - As a new visitor:
+
+        - I  expect to understand the aim of the site once I land on the page.
+        - I Expect to navigate easily through the site and swiftly locate the content I want.
+        - I expect to be able to make contact the company directly through email, telephone and other means.
+        - I expect to find all information clear and comprehensive.
+
+    - As a returning visitor:
+
+        - I expect to find the best way to get in contact with the company with any questions I may have.
+
+## Design (UXD)
+
+### Strategy 
+
+1. Is the content culturally appropriate?
+    - Yes. The content of the site is focused at anyone interested obtaining the services of the company.
+
+2. Is the content relevant?
+    - Yes. The content is information given is soley about the subject matter.
+
+3. Can we track and catalogue the content in an intuitive way?
+
+    - Yes. We can use headers, footers, paragraphs, captions, images and links.
+
+4. Is the technology appropriate?
+    
+    - Yes. The images, video and text is all relevant to what services the company provides.
+
+5. Why would a user want this?
+    - User's would want this as they are usually on this page if they are currently are about to begin a project and need a certain service that the company provides. The website is simple to understand, easy to navigate and offers an option to quickly send their enquires to the company directly.
+
+### Scope
+
+1. What does the user want to accomplish?
+    - The user wants to be able to learn what services the company offers and an opportunity to contact the company.
+2. What does the user need to do in order to achieve their objective?
+    - Browse through the site, view the images, watch the accompanied video and fill out the request form.
+3. What constraints does the site or app have to conform within? 
+    - A time limit and the usage of HTML and CSS.
+
+### Structure
+- Landing Page
+    - Navigation bar with company name and links to the Gallery and Quote Us pages with an active page indicator.
+    - Hero image with overlay text with information about the company and call to action button that directs to the contact form.
+    - Footer with company name, contact details and links to the relevant social media sites.
+
+- Gallery Page
+    - Navigation bar with company name and links to the Home and Quote Us pages with an active page indicator.
+    - Static images selection.
+    - Embedded relevant video.
+    - Footer with company name, contact details and links to the relevant social media sites.
+
+- Quote Us Page
+    - Navigation bar with company name and links to the Home and Gallery pages with an active page indicator.
+    - Company contact form and submit button.
+    - Footer with company name, contact details and links to the relevant social media sites.
+
+- Thank You Page
+    - Navigation bar with company name and links to the Home, Gallery and Thank You pages.
+    - Thank you message to user to acknowledge the successfuly submittion of enquiry.
+    - Company contact form and submit button.
+    - Footer with company name, contact details and links to the relevant social media sites.
+
+## **Skeleton**
+
+I created wireframes for 3 different platforms (desktop, tablet and mobile) to show responsiveness of the site. The wireframes were created using
+
+## **Surface**
+
+The final layer of design looks at the aesthetic of the site. My goal is to make the site visually appealing to the user while also complementing the imagery and content of the site without compromising accessibility for users with disabilities.
+
 
 ## **Features**
 ### **Exisiting Features**
