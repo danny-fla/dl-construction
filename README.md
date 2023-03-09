@@ -127,34 +127,34 @@ The aim of the site is to be visially appealling, easily legible and use images 
     - The image and the text overlay easily portrays to the user that the website is for a construction company.
     - The text overlaying the image provides the user with an undertstanding of the company and it's values.
     - The call to action button allows the user to quickly re-direct themselves to the contact section of the website.
-    <!--add Hero here-->
+    
 
 ![Hero Screenshot](assets/images/hero-image-and-text.png)
 
 - The Footer
     - The footer includes the comapny's name, address and contact details.
     - All the links to the relevant social media sites are located in the footer section. Once clicked the user will simply be re-directed to their chosen destination.
-    <!--add footer here-->
+    
 
 ![Footer screenshot](assets/images/footer.png)
 
 - Gallery
     - The gallery allows the user to access images and video to showcase the company's past projects.
     - The aim of this section is to show the user the many and varied capibilites of DL Construction.
-    <!--add gallery here-->
+
 
 ![Gallery Screenshot](assets/images/gallery.png)
 
 - Quote Us
     - The Quote Us section has a contact form which allows the user to send their enquires directly to the company to request an estimate of the cost involved for a project that they are planning.
     - The contact form is simple and easy to use.
-    <!--add contact here-->
+
 
 ![Quote Us Screenshot](assets/images/quote.png)
 
 - Thank You
     - The Thank You feature is a simple indicator that the user's enquiry has been successfully received by DL Construction.
-    <!--add thank you here-->
+
 
 ![Thank you Screenshot](assets/images/thank-you.png)
 
@@ -199,8 +199,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 5. Hit the "save" button, then wait for your site to be published.(This can take some time.)
 6. When your site is ready and published the link will be above the "source" section.
 
-Please find a link to deployed site [here](#)
-<!--Deployment steps here-->
+Please find a link to deployed site [here](https://danny-fla.github.io/dl-construction/)
 
 ## Credits
 ### Media 
