@@ -114,11 +114,11 @@ The aim of the site is to be visially appealling, easily legible and use images 
 ### **Exisiting Features**
 - Navigation Bar
     - The navigation bar is fully responsive, features on all four pages and includes links to the Home, Gallery and Quote Us pages. To aid simple user navigation it is identical on each page.
-    <!--add navbar here-->
+
     - Depending on the screen size of the user's device, the navigation bar transforms into a hamburger menu so as not to hinder the user's experience.
 
 
-![Navigation Bar Screenshot](assets/images/nav%20bar%20screenshot.png)
+![Navigation Bar Screenshot](assets/images/nav-bar.png)
 
     
 ![Hamburger Nav Screenshot](assets/images/hamburger.png)
@@ -129,34 +129,34 @@ The aim of the site is to be visially appealling, easily legible and use images 
     - The call to action button allows the user to quickly re-direct themselves to the contact section of the website.
     <!--add Hero here-->
 
-![Hero Screenshot](assets/images/landing.png)
+![Hero Screenshot](assets/images/hero-image-and-text.png)
 
 - The Footer
     - The footer includes the comapny's name, address and contact details.
     - All the links to the relevant social media sites are located in the footer section. Once clicked the user will simply be re-directed to their chosen destination.
     <!--add footer here-->
 
-![Footer screenshot](assets/images/footer%20screenshot.png)
+![Footer screenshot](assets/images/footer.png)
 
 - Gallery
     - The gallery allows the user to access images and video to showcase the company's past projects.
     - The aim of this section is to show the user the many and varied capibilites of DL Construction.
     <!--add gallery here-->
 
-![Gallery Screenshot](assets/images/gallery%20screenshot%201.png)
+![Gallery Screenshot](assets/images/gallery.png)
 
 - Quote Us
     - The Quote Us section has a contact form which allows the user to send their enquires directly to the company to request an estimate of the cost involved for a project that they are planning.
     - The contact form is simple and easy to use.
     <!--add contact here-->
 
-![Quote Us Screenshot](assets/images/Quote%20Us%20screenshot.png)
+![Quote Us Screenshot](assets/images/quote.png)
 
 - Thank You
     - The Thank You feature is a simple indicator that the user's enquiry has been successfully received by DL Construction.
     <!--add thank you here-->
 
-![Thank you Screenshot](assets/images/
+![Thank you Screenshot](assets/images/thank-you.png)
 
 ### Future Features
 - Media Slideshow
@@ -181,6 +181,8 @@ The aim of the site is to be visially appealling, easily legible and use images 
 - Lighthouse
     - Lighthouse was used to test the accessability of the website and to make sure the fonts and colors used are easily readable.
     
+![Lighthouse Screenshout](assets/images/lighthouse%20(2).png)
+
 - Responsiveness
     - I have tested the website is responsive on all sizes of devices and that all text is easily readable.
     - I tested the page throughout my project using chrome developer tools.
