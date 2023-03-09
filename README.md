@@ -21,11 +21,11 @@ This is a website for a construction company that gives the user information abo
         - Footer
         - Gallery
         - Quote Us
-        - Thank You
     - Future Features
         - Media Slideshow
 - [Testing](#testing)
-    - Validator testing
+    - Manual Testing
+    - Validator Testing
 - [Unfixed bugs](#unfixed-bugs)
 - [Deployment](#deployment)
 - [Credits](#credits) 
@@ -93,17 +93,21 @@ This is a website for a construction company that gives the user information abo
     - Company contact form and submit button.
     - Footer with company name, contact details and links to the relevant social media sites.
 
-- Thank You Page
-    - Navigation bar with company name and links to the Home, Gallery and Thank You pages.
-    - Thank you message to user to acknowledge the successfuly submittion of enquiry.
-    - Company contact form and submit button.
-    - Footer with company name, contact details and links to the relevant social media sites.
-
 ## **Skeleton**
 
 I created wireframes for 3 different platforms (desktop, tablet and mobile) to show responsiveness of the site. The wireframes were created using pen and paper as it's a personal preference.
 
-View wireframes [here](#)
+View wireframes:
+
+[Desktop: Home & Gallery](assets/images/desktop1.jpg)
+
+[Desktop: Quote Us](assets/images/desktop2.jpg)
+
+[Tablet: Home & Gallery](assets/images/tablet1.jpg)
+
+[Tablet: Quote Us](assets/images/tablet2.jpg)
+
+[Mobile](assets/images/mobile.jpg)
 
 ## **Surface**
 
@@ -152,17 +156,37 @@ The aim of the site is to be visially appealling, easily legible and use images 
 
 ![Quote Us Screenshot](assets/images/quote.png)
 
-- Thank You
-    - The Thank You feature is a simple indicator that the user's enquiry has been successfully received by DL Construction.
-
-
-![Thank you Screenshot](assets/images/thank-you.png)
 
 ### Future Features
 - Media Slideshow
     - An image carousel to contain a collection of images and videos to include into the hero image section.
 
 ## Testing 
+### Manual Testing
+I carried out the following tests to ensure the functionality of each page, associated links & mediaa. 
+
+I also tested that every page is fully responsive on all device sizes using chrome developer tools.
+
+Links.
+
+1. Test each link on the index page. Each link worked as expected, and any links leading to external pages opened correctly in a seperate browser tab.
+
+2. Test each link on the gallery page. Each link worked as expected, and any links leading to external pages opened correctly in a seperate browser tab.
+
+3. Test each link on the Quote Us page. Each link worked as expected, and any links leading to external pages opened correctly in a seperate browser tab.
+
+4. Test each link on the thank you page. Each link worked as expected, and any links leading to external pages opened correctly in a seperate browser tab.
+
+Contact Us Form.
+
+1. Test the contact us form. I tried to submit the form without filling in any input fields. The form worked correctly and directed users to fill in the name field. I then filled in the name field and tried to submit the form. Again the form worked correctly and directed the user to fill out the email field. I filled out the name and email forms and tried to submit the form. The form worked correctly and asked the user to fill in the textarea field. I filled out the name, email and textarea field and tried to submit the form. The form then opens the thank you page in the same browser window.
+
+2. I tried to submit the form with only an email address - the form directs the user to fill in the name field. I filled out the name and email fields and tried to submit the form. The form then directs the user to fill out the textarea field. I filled in the name, email and textarea field and submitted the form. The form then opens the thank you page in the same browser window.
+
+3. I tried to submit the form with only the textarea field filled in. The form directs the user to fill in the name field. I filled in the name and textarea field and submitted the form. The form directs the user to fill in the email field. I filled in the name, email and textarea fields and submitted the form. The form then opens the thank you page in the same browser window.
+
+4. I tried submitting the form without any information filled in. The form directs the user to fill in the name field. It then goes on to ask the user to complete the email and textarea fields if they are not filled out. The form can then be submitted and will open the thank you page in the same browser window.
+
 
 ### Validator Testing
 
